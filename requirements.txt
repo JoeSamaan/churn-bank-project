@@ -6,6 +6,6 @@ scikit-learn
 streamlit
 tensorflow
 warnings
-imblearn
+imblearnced-learn
 xgboost
 Bank
